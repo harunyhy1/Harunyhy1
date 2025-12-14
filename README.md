@@ -43,14 +43,6 @@
 
 ---
 
-## 🎨 Design & Productivity
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-
----
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harunyhy1&show_icons=true&theme=radical)
@@ -63,15 +55,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=harunyhy1&theme=radical&no-frame=true&margin-w=10)
-
----
-
 ## 💬 Personal Quote
-> “Learning never ends. In security, curiosity is the strongest defense.”  
-> — *Harun Yahya*
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
