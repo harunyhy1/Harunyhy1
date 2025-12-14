@@ -61,9 +61,4 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=harunyhy1&color=ff69b4)
-
----
-
-
 ⭐ *“Learning never ends, security is a mindset.”*
