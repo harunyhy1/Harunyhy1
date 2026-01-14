@@ -43,18 +43,6 @@
 
 ---
 
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harunyhy1&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harunyhy1&theme=radical)
-
----
-
-## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harunyhy1&layout=compact&theme=radical)
-
----
-
 ## 💬 Personal Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
